@@ -20,6 +20,7 @@ Your objectives for the day are to achieve:
 - [X] Complete "Working With Numbers"
 - [X] Complete "Making Decisions with Conditional Statements"
 - [X] Complete "Creating Reusable Code with Functions"
+![Image of Completion](http://i.imgur.com/xgWNlPp.png)
 - [ ] Read about ["Truthy"](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and ["Falsey"](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values in this article: https://j11y.io/javascript/truthy-falsey/
 
 ### Stretch
